@@ -1,13 +1,11 @@
 # bc-HomeWork-1
-Had a rough time sumbitting the homwwork and I messed a lot of stuff up.
-First, there was a lot of div tags and had to be chnaged in the code, because I messed up so bad I keep messing with the page images. However, I will do a lot better next time. 
 
-Changed a div tag to header 
+Added a nav tag on line 11 and 26.
 
-Had to move some tag to become children. 
+Added a article tag on line 28 and 50
 
-Added a main tag 
+Added a section tag on line 36, 42, 43, and 49 
 
-Added a article tag 
+Added a aside tag on line 51 and 73. 
 
-Added a footer tag 
+Added a footer tag on line 74 and 81. 
